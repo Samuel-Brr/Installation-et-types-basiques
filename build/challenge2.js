@@ -2,8 +2,6 @@
 // POO en Typescript 1 - Procédural vs Objet, classes, instances
 class Person {
     constructor(name, age) {
-        this.name = "";
-        this.age = 0;
         this.name = name;
         this.age = age;
     }
