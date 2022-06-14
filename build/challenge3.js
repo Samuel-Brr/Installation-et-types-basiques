@@ -29,4 +29,3 @@ assert_1.default.equal(typeof customer.getName, 'function');
 assert_1.default.equal(typeof customer.verifyPinInput, 'function');
 assert_1.default.equal(customer.getName(), 'John Doe');
 assert_1.default.ok(customer.verifyPinInput('3579'));
-console.log('TOTO');
