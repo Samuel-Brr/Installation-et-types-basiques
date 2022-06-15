@@ -1,4 +1,3 @@
-"use strict";
 // challenge.ts
 const prettyPrintWilder = (users) => {
     users.map((user) => {

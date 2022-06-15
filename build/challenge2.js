@@ -1,4 +1,3 @@
-"use strict";
 // POO en Typescript 1 - Procédural vs Objet, classes, instances
 class Person {
     constructor(name, age) {
